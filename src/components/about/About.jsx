@@ -37,7 +37,7 @@ const About = () => {
 
         </div>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae illum earum, quibusdam consectetur, distinctio natus alias harum velit excepturi ex asperiores vitae! Exercitationem aliquid accusamus libero, quia vero iure mollitia!
+        Crio graduated with 3 years of full stack development experience. I am passionate about building great software that improves the lives of those around me. With experience in creating software for small businesses, individuals, and large corporations, I am able to meet the needs of all types of clients.
         </p>
         <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 
