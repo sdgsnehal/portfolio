@@ -58,7 +58,7 @@ header{
 /*=========Media Queries (Medium devices)=========*/
 @media screen and (max-width:1024px){
     header{
-        height: 68vh;
+        height:68vh;
     }
 }
 /*=========Media Queries (SMALL devices)=========*/
@@ -71,5 +71,9 @@ header{
         display: none;
     }
 }
-
-  
+@media screen and (min-width: 1200px) {
+    /* CSS rules for desktops and laptops */
+    header{
+        height:120vh;
+    }
+}
